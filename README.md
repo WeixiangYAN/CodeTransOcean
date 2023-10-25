@@ -1,6 +1,6 @@
 # [CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation](https://arxiv.org/abs/2310.04951)
 
-**CodeTransOcean**, a large-scale comprehensive benchmark that supports the largest variety of programming languages for code translation. CodeTransOcean consists of three novel multilingual datasets, namely, **MultilingualTrans** supporting translations between multiple popular programming languages, **NicheTrans** for translating between niche programming languages and popular ones, and LLMTrans for evaluating executability of translated code by large language models (LLMs). CodeTransOcean also includes a novel cross-framework dataset, **DLTrans**, for translating deep learning code across different frameworks.
+**CodeTransOcean**, a large-scale comprehensive benchmark that supports the largest variety of programming languages for code translation. CodeTransOcean consists of three novel multilingual datasets, namely, **MultilingualTrans** supporting translations between multiple popular programming languages, **NicheTrans** for translating between niche programming languages and popular ones, and **LLMTrans** for evaluating executability of translated code by large language models (LLMs). CodeTransOcean also includes a novel cross-framework dataset, **DLTrans**, for translating deep learning code across different frameworks.
 
 
 <div align="center">
