@@ -15,7 +15,9 @@
 
 
 ## Code
-🚧 Working in progress, coming soon...
+The MultilingualTrans, NicheTrans, and DLTrans datasets were experimented with on CodeT5+, and the code is in the [CodeT5+](https://github.com/WeixiangYAN/CodeTransOcean/tree/main/CodeT5%2B) file.
+
+The LLMTrans dataset was experimented with on GPT-3.5, and the code is in the [ChatGPT](https://github.com/WeixiangYAN/CodeTransOcean/tree/main/ChatGPT) file.
 
 
 
