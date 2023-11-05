@@ -31,3 +31,6 @@ Please cite the paper if you use the data or code from CodeTransOcean.
   year={2023}
 }
 ```
+
+## Contact
+For questions, please feel free to reach out via email at ``yanweixiang.ywx@gmail.com``.
