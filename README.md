@@ -1,6 +1,13 @@
 # [CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation](https://arxiv.org/abs/2310.04951)
 
-<img src="./images/leaderboard.png">[Leaderboard](https://yuchen814.github.io/CodeTransOcean/) | 📄[Paper](https://arxiv.org/pdf/2310.04951.pdf) | 🤗[Access from HuggingFace datasets](https://huggingface.co/datasets/WeixiangYan/CodeTransOcean) | <img src="./images/Google_Drive_Logo_16px.png">[Access from Google Drive datasets](https://drive.google.com/file/d/1xw6Edqf_nknKoei_LC49n4EtvNQezKGe/view?usp=sharing)
+<div align="center">
+    <a href="https://yuchen814.github.io/CodeTransOcean/"><img src="./images/leaderboard6.png" alt="Leaderboard">Leaderboard</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://arxiv.org/pdf/2310.04951.pdf">📄 Paper</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://huggingface.co/datasets/WeixiangYan/CodeTransOcean">🤗 Access from HuggingFace datasets</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1xw6Edqf_nknKoei_LC49n4EtvNQezKGe/view?usp=sharing"><img src="./images/Google_Drive_Logo_16px.png" alt="Google Drive"> Access from Google Drive datasets</a>
+</div>
+
+<br>
 
 **CodeTransOcean**, a large-scale comprehensive benchmark that supports the largest variety of programming languages for code translation. CodeTransOcean consists of three novel multilingual datasets, namely, **MultilingualTrans** supporting translations between multiple popular programming languages, **NicheTrans** for translating between niche programming languages and popular ones, and **LLMTrans** for evaluating executability of translated code by large language models (LLMs). CodeTransOcean also includes a novel cross-framework dataset, **DLTrans**, for translating deep learning code across different frameworks.
 
